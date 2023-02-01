@@ -1,11 +1,7 @@
 # odin-recipes
-Setting up my project’s GitHub repository via The Odin Project 
+#brief introduction: The website consist of a main index page which have links to 3 recipes
 
 
-#brief introduction
+#skills demonstrated: Basic HTML & CSS styling
 
-#describing the project 
-
-#skills demonstrated
-
-#self-reflection
+#self-reflection: remember to place ";", "i" & "1" typing mistakes
