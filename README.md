@@ -5,3 +5,7 @@
 #skills demonstrated: Basic HTML & CSS styling
 
 #self-reflection: remember to place ";", "i" & "1" typing mistakes
+
+
+
+https://kamigawahorizon.github.io/odin-recipes/
